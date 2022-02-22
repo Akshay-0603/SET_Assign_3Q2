@@ -5,7 +5,7 @@ import mysql.connector
 expression = ""
 
 con=mysql.connector.connect(host="localhost",user="root",passwd="Akshay-0603",database="assignment_4")
-con=mysql.connector.connect(host="localhost",user="root",passwd="Akshay-0603",database="assignment_3")
+
 cur = con.cursor()
 cur = con.cursor()
 
