@@ -6,7 +6,6 @@ expression = ""
 
 con=mysql.connector.connect(host="localhost",user="root",passwd="Akshay-0603",database="assignment_4")
 con=mysql.connector.connect(host="localhost",user="root",passwd="Akshay-0603",database="assignment_3")
-con=mysql.connector.connect(host="localhost",user="root",passwd="Akshay-0603",database="assignment_2")
 
 cur = con.cursor()
 cur = con.cursor()
